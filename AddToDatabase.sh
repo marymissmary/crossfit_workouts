@@ -3,14 +3,17 @@
 ## add document to database
 index="workouts"
 type="workout"
-file="Doc.json" 
-uuid=`uuidgen`
-
-## list documents:
-#http http://127.0.0.1:5984/workouts
 
 ## add document
+file="WorkoutsJSON/wod.2014.07.07.json" 
+uuid=`uuidgen`
 curl -X PUT "http://127.0.0.1:9200/${index}/${type}/${uuid}" --data @${file}
+
+## add second document
+file="WorkoutsJSON/wod.2014.07.12.json" 
+uuid=`uuidgen`
+curl -X PUT "http://127.0.0.1:9200/${index}/${type}/${uuid}" --data @${file}
+
 
 #'{ "date" : "11/7/2014",
 #  "time of day" : "6:00 pm",
