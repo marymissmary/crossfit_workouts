@@ -5,12 +5,19 @@
 index="workouts"
 type="workout"
 
- queryString='{
-   "query" :
+queryString='{
+  "query" :
   {
-    "query_string" : 
+    "filter" : 
     {
-       "query" : "kettle"
+      "range" : 
+      {
+        "weight" : 
+        {
+          "gte" : 10,
+          "lte" : 100
+        }
+      }
     }
   }
 }'

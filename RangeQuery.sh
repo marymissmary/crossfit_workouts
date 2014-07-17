@@ -1,16 +1,20 @@
 #!/bin/bash
 
-## search index for given type
+## get range
 
 index="workouts"
 type="workout"
 
- queryString='{
-   "query" :
+queryString='{
+  "query" :
   {
-    "query_string" : 
+    "range" : 
     {
-       "query" : "kettle"
+      "weight" : 
+      {
+        "gte" : 30,
+        "lte" : 100
+      }
     }
   }
 }'
