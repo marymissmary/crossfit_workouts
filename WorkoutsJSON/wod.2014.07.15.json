@@ -1,0 +1,17 @@
+{ "date"           : "2014-07-15T18:00:00",
+  "type"           : "met con",
+  "coach"          : "Bart",
+  "score"          : [ 30,30,31,29,28,26 ],
+  "movements"      : ["row","burpees","row","burpees","row","burpees" ],
+  "comments"       : [
+                       "2 min row for max calories. Rest 1 min. 2 min max burpees. Rest 1 min. 3 rounds total",
+                       "This was fun. I felt a little pukey at the end :)",
+                       "No back pain" 
+                     ],
+  "skill/strength" : [ 
+                       "Strict press. Sets of 3. 70 lbs",
+                       "Need to keep elbows in during the press. This is a better shoulder position",
+                       "T2B inbetween sets. Need to keep shoulders active here: Don't just hang!",
+                       "A wider grip might make it easier to really use the forward motion of my upper body to have better rythm"
+                     ]
+}

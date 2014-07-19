@@ -1,0 +1,18 @@
+{ "date"           : "2014-07-18T05:00:00",
+  "type"           : "for time",
+  "coach"          : "John",
+  "time"           : "00:12:37",
+  "movements"      : ["row","thrusters","pullups"  ],
+  "rep scheme"     : [1000,50,30 ],
+  "weight"         : [ 0,45,0 ],
+  "comments"       : [
+                       "Jackie: row 1000 m, 50 thrusters, 30 pullups",
+                       "I could have and should have gone harder. I was a little worried about my back.",
+                       "I was a little worried about my back, but it was more or less OK. A little bit of tension, but nothing I 
+                        should have stopped moving for." 
+                     ],
+  "skill/strength" : [ 
+                       "Hang squat snatch. Sets of 3 at 75 lbs",
+                       "These felt good. I felt like I was moving fast and keeping my shoulders active and strong on the landing"
+                     ]
+}
