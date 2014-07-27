@@ -1,0 +1,25 @@
+{ "date"           : "2014-07-22T18:00:00-11:00",
+  "type"           : "general metcon, with rest",
+  "coach"          : "Bart",
+  "min"            : 18,
+  "sec"            : 40,
+  "score"          : [  ],
+  "movements"      : ["row","hand release pushups","B-fly situps","rest"  ],
+  "rep scheme"     : [ 500,25,25,1 ],
+  "rounds"         : 3,
+  "comments"       : [
+                       "Row 500 m, 25 hand-release pushups, 25 B-fly situps, rest 1 minute, 3 rounds" ,
+                       "Tried to attack every round. Last round of rowing was crazy hard :)",
+                       "mostly did pushups in sets of 5. Had pretty good form for keeping my hips off the ground",
+                       "Still a struggle to keep my elbows back and in"
+                     ],
+  "skill/strength" : [ 
+                       "Overhead squat, 3 reps, no rack",
+                       "Weights: 85, 95, 95, 100, 100",
+                       "These felt good. I can go heavier next time"
+                     ],
+  "post-wod"       : [
+                       "Strict pullups work.",
+                       "Blue band: 3. Red band: 2,2,3,2,2"
+                     ]
+}

@@ -1,12 +1,11 @@
 #!/bin/bash
 
-## add document to database
+## make elasticsearch mapping
+
 index="workouts"
 type="workout"
-## list documents:
 
 
-#curl -X GET  http://127.0.0.1:9200/_status
 
 
 http DELETE  http://127.0.0.1:9200/workouts/workout

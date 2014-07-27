@@ -1,0 +1,25 @@
+{ "date"           : "2014-07-07T18:00:00-11:00",
+  "type"           : "AMRAP",
+  "coach"          : "John",
+  "min"           : 12,
+  "sec"           : 0,
+  "score"          : ["3 rounds + 3 thrusters"  ],
+  "movements"      : ["box jump","dumbbell thrusters","B-fly situps"  ],
+  "rep scheme"     : [ 20,15,20 ],
+  "weight"         : [ 0,25,0 ],
+  "comments"       : [
+                       "Started jumping down from box instead of stepping. Did this about half of the reps",
+                       "I should just start doing this more often--it gives a more intense workout" 
+                     ],
+  "skill/strength" : [ 
+                       "Hang squat cleans.",
+                       "1-rep max 120 lbs today",
+                       "Also failed 2 at 120",
+                       "At 120 lbs, the bar gets out in front of me too much. Be sure to pull it toward my body during the extension"
+                     ],
+  "post-wod"       : [
+                       "Wored on pullups",
+                       "Blue band: 2 sets of 3",
+                       "Red band: 2 sets of 3, 2 sets of 2"
+                     ]
+}

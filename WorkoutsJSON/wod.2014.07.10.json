@@ -1,15 +1,25 @@
-{ "date"           : "2014-07-18T05:00:00",
-  "type"           : "",
-  "coach"          : "",
-  "time"           : "00::",
-  "score"          : [  ],
-  "movements"      : [  ],
-  "rep scheme"     : [  ],
-  "weight"         : [  ],
+{ "date"           : "2014-07-10T18:00:00-11:00",
+  "type"           : "girl, for time",
+  "coach"          : "John",
+  "min"           : 6,
+  "sec"           : 39,
+  "movements"      : ["power clean and jerk"  ],
+  "rep scheme"     : [ 30 ],
+  "weight"         : [ 90 ],
   "comments"       : [
-                       "" 
+                       "Grace: 30 ground to overhead for time",
+                       "This was my heaviest Grace ever!",
+                       "I did not snatch the last rep :(" ,
+                       "I tried both dropping every rep, and doing a few touch and go with more rest between.",
+                       "I think it's faster to do 3 or 4 touch and go, and rest for a breath or two."
                      ],
   "skill/strength" : [ 
-                       ""
+                       "Back squats. Sets of 3 at 155 lbs",
+                       "These felt good. Do 160 next time."
+                     ],
+  "post-wod      " : [ 
+                       "Strict pullups",
+                       "blue band: 1 set of 3",
+                       "red band: 3 sets of 3, set of 2 (pause at top), set of 1 (pause at top), 2 sets of 2"
                      ]
 }

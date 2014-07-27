@@ -1,0 +1,24 @@
+{ "date"           : "2014-07-26T09:30:00-11:00",
+  "type"           : "general metcon",
+  "coach"          : "Maureen",
+  "min"            : 7,
+  "sec"            : 15,
+  "score"          : [  ],
+  "movements"      : [ "pullups","front squats","burpees" ],
+  "rep scheme"     : [ 10,10,10 ],
+  "rounds"         : 3,
+  "weight"         : [0,85,0  ],
+  "comments"       : [
+                       "Felt good. I killed the burpees",
+                       "I strung together a few of the pullups, but still mostly sets of one",
+                       "I had a narrower grip on the pullups, that made them easier and stronger" 
+                     ],
+  "skill/strength" : [ 
+                       "Deadlifts, 5 sets of 5. Weights: 175, 180, 180",
+                       "These looked good, and the last round was pretty hard",
+                       "Bump up to 190 next time?"
+                     ],
+  "post-wod"       : [
+                       ""
+                     ]
+}

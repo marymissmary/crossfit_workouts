@@ -1,18 +1,23 @@
-{ "date"           : "2014-07-18T05:00:00",
-  "type"           : "for time",
+{ "date"           : "2014-07-18T05:00:00-11:00",
+  "type"           : "girl, for time",
   "coach"          : "John",
-  "time"           : "00:12:37",
+  "min"            : 12,
+  "sec"            : 37,
+  "score"          : [  ],
   "movements"      : ["row","thrusters","pullups"  ],
-  "rep scheme"     : [1000,50,30 ],
+  "rep scheme"     : [ 1000,50,30 ],
   "weight"         : [ 0,45,0 ],
   "comments"       : [
-                       "Jackie: row 1000 m, 50 thrusters, 30 pullups",
-                       "I could have and should have gone harder. I was a little worried about my back.",
-                       "I was a little worried about my back, but it was more or less OK. A little bit of tension, but nothing I 
-                        should have stopped moving for." 
+                       "Jackie. Row 1000 m, 50 thrusters, 30 pullups",
+                       "I should have and could have gone harder.",
+                       "I was kinda holding back because of the pullups, but that was dumb: the pullups would have sucked anyways",
+                       "My lower back was a litte tweaky, but not enough that it should have slowed me down" 
                      ],
   "skill/strength" : [ 
-                       "Hang squat snatch. Sets of 3 at 75 lbs",
-                       "These felt good. I felt like I was moving fast and keeping my shoulders active and strong on the landing"
+                       "Hang squat snatch, sets of 3, 75 lbs.", "These felt good.",
+                       "I felt like I did a good job of moving fast and keeping my shoulders active and strong on recieving the bar"
+                     ],
+  "post-wod"       : [
+                       ""
                      ]
 }

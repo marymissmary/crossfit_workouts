@@ -10,10 +10,10 @@ queryString='{
   {
     "range" : 
     {
-      "weight" : 
+      "min" : 
       {
-        "gte" : 30,
-        "lte" : 100
+        "gte" : 7,
+        "lte" : 15
       }
     }
   }

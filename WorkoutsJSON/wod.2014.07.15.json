@@ -1,8 +1,9 @@
-{ "date"           : "2014-07-15T18:00:00",
+{ "date"           : "2014-07-15T18:00:00-11:00",
   "type"           : "met con",
   "coach"          : "Bart",
   "score"          : [ 30,30,31,29,28,26 ],
-  "movements"      : ["row","burpees","row","burpees","row","burpees" ],
+  "movements"      : ["row","burpees" ],
+  "rounds"         : 3,
   "comments"       : [
                        "2 min row for max calories. Rest 1 min. 2 min max burpees. Rest 1 min. 3 rounds total",
                        "This was fun. I felt a little pukey at the end :)",

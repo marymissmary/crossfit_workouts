@@ -1,0 +1,21 @@
+{ "date"           : "2014-07-19T09:30:00-11:00",
+  "type"           : "met con, for time",
+  "coach"          : "Anthony",
+  "min"            : 10,
+  "sec"            : 41,
+  "score"          : [  ],
+  "movements"      : ["burpees","air squats","B-fly situps","kettlebell swing","burpees"  ],
+  "rep scheme"     : [ 25,50,75,50,25 ],
+  "weight"         : [ 0,0,0,35,0 ],
+  "comments"       : [
+                       "All unbroken except 2 sets for situps and 2 sets for kettlebell swings" ,
+                       "I wanted the 45 lb kettlebell, but was happy it was 35 when the time came :)",
+                       "Bend in the arms with the 35-lb kettlebell feels much more efficient"
+                     ],
+  "skill/strength" : [ 
+                       "Just worked on some mobility"
+                     ],
+  "post-wod"       : [
+                       ""
+                     ]
+}

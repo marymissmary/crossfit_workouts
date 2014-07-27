@@ -1,15 +1,20 @@
 { "date"           : "2014-07-18T05:00:00",
   "type"           : "",
   "coach"          : "",
-  "time"           : "00::",
+  "min"            : ,
+  "sec"            : ,
   "score"          : [  ],
   "movements"      : [  ],
   "rep scheme"     : [  ],
+  "rounds"         : ,
   "weight"         : [  ],
   "comments"       : [
                        "" 
                      ],
   "skill/strength" : [ 
+                       ""
+                     ],
+  "post-wod"       : [
                        ""
                      ]
 }

@@ -1,7 +1,8 @@
-{ "date"           : "2014-07-12T09:30:00",
+{ "date"           : "2014-07-12T09:30:00-11:00",
   "type"           : "for time",
   "coach"          : "John",
-  "time"           : "00:08:55",
+  "min"           : 8,
+  "sec"           : 55,
   "movements"      : ["kettle bell swings","burpees" ],
   "rep scheme"     : [ 100,5 ],
   "weight"         : [ 45,0 ],
@@ -12,5 +13,10 @@
                        "One-arm overhead squats. Max weight 2 reps each arm: 40 lbs",
                        "Two-arm dumbbell overhead squats. Max weight 2 reps: 35 lbs in each hand",
                        "I think I could have gone higher. These are mostly flexibility"
+                     ],
+  "post-wod"       : [
+                       "Worked on strict pullups.",
+                       "blue band: 1 set of 3",
+                       "red band: 4 sets of 3"
                      ]
 }

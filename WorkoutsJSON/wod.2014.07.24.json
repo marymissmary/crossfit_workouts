@@ -1,0 +1,22 @@
+{ "date"           : "2014-07-24T19:00:00-11:00",
+  "type"           : "General met con",
+  "coach"          : "Holly",
+  "min"            : 8,
+  "sec"            : 44,
+  "score"          : [  ],
+  "movements"      : [ "box jumps","push jerk" ],
+  "rep scheme"     : [ 6,6 ],
+  "weight"         : [0,85 ],
+  "rounds"         : 6,
+  "comments"       : [
+                       "6 box jumps (20 inch box), 6 push jerks, 6 rounds, 3 burpees EMOM",
+                       "jumped up and down on box","The weight was a little heavy for me, but I'm glad I did it" 
+                     ],
+  "skill/strength" : [ 
+                       "Back squat 1-rep max","175 felt easy, 185 hard, I failed at 195",
+                       "1-rep max today: 185 lbs. This is just under my old 1-rep max of 190"
+                     ],
+  "post-wod"       : [
+                       ""
+                     ]
+}
