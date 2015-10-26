@@ -1,0 +1,16 @@
+{ "date"           : "2015-10-23 17:00:00",
+  "type"           : "metcon",
+  "coach"          : "Caroline",
+  "movements"      : ["thrusters","pullups","burpees"],
+  "rep scheme"     : [ 7,7,7 ],
+  "weight"         : [ 55,0,0 ],
+  "workout"        : "Bergermon Beep test. EMOM: 7 thrusters, 7 pullups, 7 burpees. On any round, if you
+                      take longer than a minute, finish the round, rest the remainder of the minute,
+                      reduce your rep count by 1 for each movement, and start again at the top of the next minute.
+                      Go for 15 minutes.",
+  "comments"       : 
+                     "Got through the first round doing 7 (barely). Didn't make the next round. Did some
+                      at 6, some at 5, a lot at 4, and the very last minute at 3. My weight was Rxed. No back
+                      problems.",
+  "post-wod"       :  "couch stretch, hip stretches"
+}

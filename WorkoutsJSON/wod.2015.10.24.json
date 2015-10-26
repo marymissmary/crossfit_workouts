@@ -1,0 +1,14 @@
+{ "date"           : "2015-10-24 08:30:00",
+  "type"           : "metcon",
+  "coach"          : "Anthony",
+  "score"          : "",
+  "movements"      : ["row","burpees","squat clean and jerk"  ],
+  "rep scheme"     : [ 250, 10, 5 ],
+  "weight"         : [ 0,0,105 ],
+  "workout"        : "row 250 meters, 10 burpees, 5 clean and jerks. Rest 2 minutes. 4 rounds. Row
+                      and burpees should be all-out sprint. Clean and jerks heavy enoug to NOT be touch and go.",
+  "comments"       : 
+                     "Last two rounds Anthony convinced us to really really sprint: my third round row
+                      was 55.4 seconds (probably a record for me :), and I was wiped after it. No back problems ",
+  "post-wod"       :  "couch stretch"
+}

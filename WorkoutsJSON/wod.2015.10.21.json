@@ -1,0 +1,12 @@
+{ "date"           : "2015-10-21 17:00:00",
+  "coach"          : "John",
+  "score"          : "4 rounds + 7 reps",
+  "workout"        : "10 minute AMRAP. 6 pullups, 12 pushups, 16 double unders.",
+  "comments"       : 
+                       "My pullups and pushups looked good; it was the double unders that killed me--I scaled the number
+                       down from 25 even. No back pain.",
+  "skill/strength" : "Backsquats, 5 sets of 3, with 3 second pause at bottom. For the first few rounds, I wasn't at the
+                     true bottom. Weights were: 125, 135, 140. The recalibrated to go to true bottom. Weights were 105,
+                      125, and 2 reps at 145 (failed the last rep).",
+  "post-wod"       :  "couch stretch, hip and shoulder stretches"
+}
