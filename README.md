@@ -7,6 +7,6 @@ The setup is the most simple thing: Use the base elasticsearch image in the Dock
 with some minimal customizations. Simple bash scripts to setup and search the index.
 
 Maybe I'll get more fancy later. Right now, like I said, I just want a simple way to 
-find out what my time was last time I did [Grace](https://www.youtube.com/watch?v=euv5Vvz_5dc)
+find out what my time was last time I did [Grace](https://www.youtube.com/watch?v=b4AYavd9hHE).
 
 
