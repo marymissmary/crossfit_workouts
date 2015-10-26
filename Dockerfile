@@ -10,11 +10,6 @@ RUN echo 'alias ls="ls --color=auto"' >> /root/.bashrc
 
 
 ##
-## make data volume
-##
-#VOLUME ["/usr/share/elasticsearch/data"]
-
-##
 ## set up snapshots repo
 ##
 RUN echo 'path.repo: ["/var/elasticsearch_snapshots"]' > /usr/share/elasticsearch/config/elasticsearch.yml
