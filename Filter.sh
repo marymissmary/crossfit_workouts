@@ -5,16 +5,15 @@
 index="workouts"
 type="workout"
 
-#dateQuery="2014-07-22 09:00:00"
-dateFrom="2014-07-22 09:00:00"
-dateTo="now"
-
 queryString='{
   "query" :
   {
-    "range" : 
-    { 
-      "date" : { "from" : "'${dateFrom}'" , "to" : "'${dateTo}'"}
+    "filtered" : 
+    {
+      "filter" :
+      {
+        "range" : { "min" : { "lte" : 5 }}
+      }
     }
   }
 }'

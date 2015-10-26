@@ -3,7 +3,7 @@
   "coach"          : "John",
   "min"           : 12,
   "sec"           : 0,
-  "score"          : ["3 rounds + 3 thrusters"  ],
+  "score"          : "3 rounds + 3 thrusters" ,
   "movements"      : ["box jump","dumbbell thrusters","B-fly situps"  ],
   "rep scheme"     : [ 20,15,20 ],
   "weight"         : [ 0,25,0 ],

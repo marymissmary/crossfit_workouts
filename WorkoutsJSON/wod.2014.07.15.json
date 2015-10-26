@@ -1,7 +1,7 @@
 { "date"           : "2014-07-15 18:00:00",
   "type"           : "met con",
   "coach"          : "Bart",
-  "score"          : [ 30,30,31,29,28,26 ],
+  "score"          : [ "30 calories","30 burpees","31 calories","29 burpees","28 calories","26 burpees" ],
   "movements"      : ["row","burpees" ],
   "rounds"         : 3,
   "comments"       : [

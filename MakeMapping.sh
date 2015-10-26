@@ -12,17 +12,18 @@ index="workouts"
 type="workout"
 
              
+      #"movements" : { "type" : "string" , "store" : "true", "analyzer" : "snowball" },
 curl -XPUT http://127.0.0.1:9200/${index}/${type}/_mapping -d '{ 
   "workout" : 
   {
     "properties" : 
     {
-      "date"       : { "type" : "date", "format" : "yyyy-MM-dd HH:mm:ss" , "store" : true },
+      "date"       : { "type" : "dateOptionalTime", "format" : "yyyy-MM-dd HH:mm:ss" , "store" : true },
       "min"       : { "type" : "integer" , "store" : true },
       "sec"       : { "type" : "integer" , "store" : true },
       "rep scheme" : { "type" : "integer" , "store" : "true" },
+      "movements" : { "type" : "string" , "store" : "true" },
       "weight"     : { "type" : "integer" , "store" : "true" },
-      "score"     : { "type" : "float" , "store" : "true" }, 
       "rounds"     : { "type" : "integer" , "store" : "true" } 
     }
   }

@@ -10,14 +10,14 @@ type="workout"
   {
     "query_string" : 
     {
-       "query" : "grace"
+      "fields" : ["movements"],
+      "query" : "burpees"
     }
   }
 }'
 
 #curl -X POST "http://127.0.0.1:9200/${index}/${type}/_search" -d '{
-http 'POST' 'http://127.0.0.1:9200/workouts/workout/_search' <<< ${queryString}
-#echo ${queryString} | http POST "http://127.0.0.1:9200/${index}/${type}/_search" 
+echo ${queryString} | http POST "http://127.0.0.1:9200/${index}/${type}/_search" 
 
 
 echo
