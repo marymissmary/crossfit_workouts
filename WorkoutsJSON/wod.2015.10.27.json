@@ -1,0 +1,11 @@
+{ "date"           : "2015-10-27 17:00:00",
+  "type"           : "metcon",
+  "coach"          : "Caroline",
+  "movements"      : ["bike","hang power clean","chest-to-bar pullsups","ring dips"],
+  "rep scheme"     : [15,5,5,5],
+  "weight"         : [0,10,0,0],
+  "workout"        : "Bike 15 calories, 5 hang power cleans, 5 C2B pullups, 5 tricep dips, rest1 minute. 4 rounds",
+  "comments"       : "Biked 15 calories instead of ran a short lap. No major back problems!",
+  "skill/strength" : ["front rack lunges. 4 sets of 10, weights: 85, 105, 115, 125. I did this instead of dealifts because I was worried about my back tightening up."],
+  "post-wod"       : []
+}

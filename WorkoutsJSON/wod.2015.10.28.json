@@ -1,0 +1,11 @@
+{ "date"           : "2015-10-25 17:00:00",
+  "type"           : "metcon",
+  "coach"          : "John",
+  "time"           : 12:41,
+  "movements"      : ["bear complex","bike","bear complex"],
+  "rep scheme"     : [15,45,15],
+  "weight"         : [0,75,0],
+  "workout"        : "", "comments"       : "",
+  "skill/strength" : [],
+  "post-wod"       : []
+}
