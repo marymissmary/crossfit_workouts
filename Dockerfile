@@ -21,8 +21,10 @@ RUN echo 'alias ls="ls --color=auto"' >> /root/.bashrc
 #RUN /usr/share/elasticsearch/bin/plugin -install mobz/elasticsearch-head
 EXPOSE 9200
 EXPOSE 9300
-#VOLUME /usr/share/elasticsearch/data
+VOLUME /usr/share/elasticsearch/data
+RUN usermod -u 1000 elasticsearch
 
 #ENTRYPOINT ["/docker-entrypoint.sh"]
+ENTRYPOINT []
 CMD ["elasticsearch"]
 #CMD ["/bin/bash"]
