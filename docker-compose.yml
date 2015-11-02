@@ -1,0 +1,8 @@
+## crossfit container
+crossfit:
+  build: .
+  ports:
+    - 9222:9200
+    - 9333:9300
+  volumes:
+    - ./esdata:/usr/share/elasticsearch/data

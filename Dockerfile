@@ -3,6 +3,7 @@
 ##
 
 FROM elasticsearch:1.7
+#FROM ubuntu 
 
 RUN apt-get update && apt-get install -y vim
 RUN echo 'PS1="\u@ es container: /# "' >> /root/.bashrc
@@ -22,5 +23,6 @@ EXPOSE 9200
 EXPOSE 9300
 #VOLUME /usr/share/elasticsearch/data
 
-ENTRYPOINT ["/docker-entrypoint.sh"]
+#ENTRYPOINT ["/docker-entrypoint.sh"]
 CMD ["elasticsearch"]
+#CMD ["/bin/bash"]
