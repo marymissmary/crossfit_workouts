@@ -9,4 +9,15 @@ with some minimal customizations. Simple bash scripts to setup and search the in
 Maybe I'll get more fancy later. Right now, like I said, I just want a simple way to 
 find out what my time was last time I did [Grace](https://www.youtube.com/watch?v=b4AYavd9hHE).
 
+Testing: do hash links work the same way as in GitLab?
 
+[Testing This Link](#testing-this-link)
+
+
+
+
+
+
+
+
+# Tesing This Link
